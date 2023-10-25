@@ -12,7 +12,7 @@ export class MessagesController {
 
     }
 
-    @Get()
+    @Get('/:id')
     getMessage(){
 
 

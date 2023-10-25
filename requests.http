@@ -9,3 +9,6 @@ Content-Type: application/json
 {
     "content": "hi there"
 }
+
+###Get single messages
+GET http://localhost:3000/messages/123123
